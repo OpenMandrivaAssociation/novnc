@@ -39,3 +39,10 @@ chmod +x %{buildroot}/%{_datadir}/noVNC/utils/launch.sh
 %{_datadir}/noVNC/include/*
 %{_datadir}/noVNC/utils/*
 %{_datadir}/noVNC/*.html
+
+
+%changelog
+* Mon Jan 30 2012 Alexander Khrukin <akhrukin@mandriva.org> git523cc4d6ab.1-1
++ Revision: 769848
+- imported package novnc
+
