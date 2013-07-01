@@ -1,7 +1,7 @@
 %define gitrel	git523cc4d6ab	
 
 
-Summary:	noVNC is a HTML5 VNC client that runs well in any modern browser
+Summary:	HTML5 VNC client that runs well in any modern browser
 Name:		novnc
 Version:	%{gitrel}.1
 Release:	1
