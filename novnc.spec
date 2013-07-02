@@ -1,5 +1,5 @@
 %define gitrel	git523cc4d6ab	
-
+%define debug_package %{nil}
 
 Summary:	HTML5 VNC client that runs well in any modern browser
 Name:		novnc
