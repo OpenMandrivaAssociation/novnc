@@ -4,7 +4,7 @@
 Summary:	HTML5 VNC client that runs well in any modern browser
 Name:		novnc
 Version:	%{gitrel}.1
-Release:	1
+Release:	2
 License:	GPLv3
 Group:		Networking/Remote access
 URL:		https://github.com/kanaka/noVNC
