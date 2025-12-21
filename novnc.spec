@@ -10,6 +10,7 @@ Group:		Networking/Remote access
 URL:		https://github.com/kanaka/noVNC
 Source0:	https://github.com/kanaka/noVNC/tarball/noVNC.tar.bz2
 
+BuildRequires:	make
 %description
 noVNC is a HTML5 VNC client that runs well in any modern
 browser including mobile browsers (iPhone/iPad and Android).
